@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "day-one/1": "ts-node day-one/1/script.ts",
+    "day-one/2": "ts-node day-one/2/script.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "name": "historian-hysteria",
+  "engines": {
+    "node": ">=20.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "ts-node": "^10.9.2",
+    "ts-patch": "^3.2.1",
+    "tsc-alias": "^1.8.10",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.7.2",
+    "typescript-transform-paths": "^3.5.2"
+  }
+}
